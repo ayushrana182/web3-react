@@ -13,7 +13,7 @@ import {
   Stack,
   VStack,
 } from "@chakra-ui/react";
-import { Injected } from "./wallet/Connectors";
+import { Injected } from "./wallet/connectors";
 import { useDisclosure } from "@chakra-ui/react";
 
 const MetaMaskCon = () => {
